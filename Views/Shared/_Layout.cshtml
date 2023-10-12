@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title style="color: rgba(227, 218, 201, 0.8);">@ViewData["Title"] - TP_LOGIN - ARAN MAZZEO</title>
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    </head>
+    <body style="color: rgba(227, 218, 201, 0.8);">
+        <header style="position:fixed; top: 0; margin: 10px 0px 20px 0px;">
+            <span style="color: rgba(227, 218, 201, 0.8);">TP_LOGIN</span>
+        </header>
+        <div style="padding:20px 10px 0px 10px;">
+            @RenderBody()
+        </div>
+
+        <footer style="color: rgba(227, 218, 201, 0.8);">
+                &copy; @DateTime.Now.Year - Taller de Programación - TP_LOGIN
+        </footer>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>
