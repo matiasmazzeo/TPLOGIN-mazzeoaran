@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Matt\\Desktop\\TP_Login\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP_Login.bundle.scp.css",
+      "Id": "Z:\\TP_Login_Mazzeo_Aran\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TP_Login.bundle.scp.css",
       "PackagePath": "staticwebassets\\TP_Login.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Matt\\Desktop\\TP_Login\\wwwroot\\Images\\Fondo.jpg",
+      "Id": "Z:\\TP_Login_Mazzeo_Aran\\wwwroot\\Images\\Fondo.jpg",
       "PackagePath": "staticwebassets\\Images\\Fondo.jpg"
     },
     {
-      "Id": "C:\\Users\\Matt\\Desktop\\TP_Login\\wwwroot\\css\\site.css",
+      "Id": "Z:\\TP_Login_Mazzeo_Aran\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Matt\\Desktop\\TP_Login\\wwwroot\\favicon.ico",
+      "Id": "Z:\\TP_Login_Mazzeo_Aran\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Matt\\Desktop\\TP_Login\\wwwroot\\js\\site.js",
+      "Id": "Z:\\TP_Login_Mazzeo_Aran\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {

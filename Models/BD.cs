@@ -6,7 +6,7 @@ namespace TP_Login;
 
 public static class BD
 {
-    private static string _connectionString = @"Server=MATTPC\SQLEXPRESS01;DataBase=DB_LOGIN;Trusted_Connection=True;";
+    private static string _connectionString = @"Server=localhost;DataBase=DB_LOGIN;Trusted_Connection=True;";
 
     public static string AgregarUsuario(string Username, string Contrasena, string Nombre, string Email, int Telefono)
     {

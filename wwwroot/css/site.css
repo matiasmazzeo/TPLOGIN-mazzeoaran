@@ -36,11 +36,8 @@ body {
   align-items: center;
   height: 100vh;
   background-image: url('/Images/Fondo.jpg');
-  /* Ruta a la imagen de fondo */
   background-size: cover;
-  /* Ajusta la imagen al tamaño de la ventana */
   background-repeat: no-repeat;
-  /* Evita que la imagen de fondo se repita */
   background-position: center;
 }
 
@@ -48,18 +45,12 @@ body {
   text-align: center;
   background-color: rgba(0, 70, 100, 0.5);
   padding: 30px;
-  /* Aumenta el espacio interior */
   border-radius: 15px;
-  /* Bordes redondeados para el contenedor */
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-  /* Sombra mejorada */
   animation: fadeIn 1s ease;
-  /* Agrega una animación de entrada */
   min-width: 400px;
   max-width: 400px;
-  /* Tamaño máximo del contenedor */
   margin: 0 auto;
-  /* Centra el contenedor horizontalmente */
 }
 
 .formulario {
@@ -78,7 +69,6 @@ body {
   width: 95%;
   padding: 10px;
   margin: 5px auto;
-  /* Cambia el margen para centrar verticalmente y horizontalmente */
   border: 1px solid #ccc;
   border-radius: 5px;
 }
